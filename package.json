@@ -1,0 +1,1 @@
+{"description":"Hop VPN link-generator page (static)","engines":{"node":">=18"},"main":"server.js","name":"hop-page","scripts":{"start":"node server.js"},"version":"1.0.0"}
